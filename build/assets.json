@@ -1,0 +1,29 @@
+{
+  "client": {
+    "css": [
+      "/static/css/client.fe82c29a.css"
+    ],
+    "js": [
+      "/static/js/client.297730f6.js"
+    ],
+    "map": [
+      "/static/css/client.fe82c29a.css.map",
+      "/static/js/client.297730f6.js.map"
+    ],
+    "chunks": [
+      0
+    ]
+  },
+  "noentry": {
+    "ico": [
+      "/favicon.ico"
+    ],
+    "txt": [
+      "/robots.txt",
+      "/static/js/client.297730f6.js.LICENSE.txt"
+    ],
+    "png": [
+      "/static/media/banner.91d025a7.png"
+    ]
+  }
+}
