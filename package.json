@@ -1,11 +1,8 @@
 {
-  "homepage": "https://mjsil.github.io/possibilitar_v2.0",
   "name": "my-razzle-app",
   "version": "4.2.15",
   "license": "MIT",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "NODE_OPTIONS=--openssl-legacy-provider razzle start",
     "build": "NODE_OPTIONS=--openssl-legacy-provider razzle build --noninteractive",
     "test": "NODE_OPTIONS=--openssl-legacy-provider razzle test --env=jsdom",
@@ -23,7 +20,6 @@
   "devDependencies": {
     "babel-preset-razzle": "4.2.15",
     "classnames": "^2.3.2",
-    "gh-pages": "^6.1.1",
     "html-webpack-plugin": "^4.5.2",
     "mini-css-extract-plugin": "^0.9.0",
     "razzle": "4.2.15",
