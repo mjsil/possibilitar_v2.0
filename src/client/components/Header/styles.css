@@ -1,0 +1,8 @@
+.navbar-nav a:hover {
+  color: #f8961d;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+  color: #f8961d;
+  font-weight: 500;
+}

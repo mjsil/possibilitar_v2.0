@@ -1,0 +1,37 @@
+.text-primary-theme {
+  color: #4cb853;
+}
+
+.section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.truncate-text {
+  display: block;
+  display: -webkit-box;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  text-align: justify;
+}
+
+.text-md-end a {
+  color: #4cb853;
+}
+
+.text-md-end a:hover {
+  color: #2c9c48;
+}
+
+a.btn {
+  background: #4cb853;
+}
+
+a.btn:hover {
+  background: #2c9c48;
+}

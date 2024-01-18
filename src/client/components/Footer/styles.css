@@ -1,0 +1,21 @@
+.bg-footer {
+  background: #2e3538;
+  padding: 60px 0;
+  position: relative;
+  font-size: 14px;
+}
+
+.list-unstyled a {
+  color: #ffffff80;
+  text-decoration: none;
+}
+
+.list-unstyled a:hover {
+  color: #f8961d;
+}
+
+.footer-alt {
+  background: #2e3538;
+  padding: 20px 0;
+  border-top: 1px solid #ffffff80;
+}

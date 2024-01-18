@@ -1,0 +1,27 @@
+.step {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.step .circle {
+  position: absolute;
+  top: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #eeeeee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.step.active .circle {
+  background: #f8961d;
+  border: 1px solid #2e3538;
+}
+
+.step.active h5 {
+  color: #f8961d;
+}
